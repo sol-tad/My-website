@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient( #6af239, #0cf2eb);
+  font-weight: bolder;
+}
+* {
+  margin:0px;
+  padding:0px;
+}
+
+#programmer {
+  display: block;
+  width:384px;
+  margin: 50px auto;
+}
+
+p {
+  text-align: center;
+  width: 500px;
+  margin: 50px auto;
+  font: 30px Monaco,"Courier New","DejaVu Sans Mono",monospace;
+}
